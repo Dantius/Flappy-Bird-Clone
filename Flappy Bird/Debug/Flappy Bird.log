@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\gonzalo\desktop\flappy bird\flappy bird\flappy bird\game.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Flappy Bird.vcxproj -> C:\Users\Gonzalo\Desktop\Flappy Bird\Flappy Bird\Debug\Flappy Bird.exe
+  Flappy Bird.vcxproj -> C:\Users\Gonzalo\Desktop\Flappy Bird\Flappy Bird\Debug\Flappy Bird.pdb (Partial PDB)
